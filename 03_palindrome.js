@@ -1,5 +1,3 @@
-//Problem 3: Check for Palindrome
-
 /**
  * Problem 3: Check for Palindrome
  * Write a function that checks if a string is a palindrome (reads the same forward and backward).
@@ -23,3 +21,4 @@ function isPalindrome(str) {
 
 console.log(isPalindrome("madam"));
 console.log(isPalindrome("hello"));
+console.log(isPalindrome("Madam"));

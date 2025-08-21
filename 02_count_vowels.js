@@ -5,8 +5,6 @@
  * Example:
  * Input: "programming"
  * Output: 3
- * 
- * 
 */
 
 function countVowels(str) {

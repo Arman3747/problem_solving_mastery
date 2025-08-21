@@ -5,7 +5,6 @@
  * Example:
  * Input: "hello"
  * Output: "olleh"
- * 
 */
 
 function reverseString(str) {
